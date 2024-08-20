@@ -5,14 +5,14 @@ const StyledLogo = styled.div`
 `;
 
 const Img = styled.img`
-  height: 9.6rem;
+  height: 12.6rem;
   width: auto;
 `;
 
 function Logo() {
   return (
     <StyledLogo>
-      <Img src="/logo-light.png" alt="Logo" />
+      <Img src="/hemlock-light-removebg-preview.png" alt="Logo" />
     </StyledLogo>
   );
 }
