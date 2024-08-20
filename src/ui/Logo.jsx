@@ -12,7 +12,7 @@ const Img = styled.img`
 function Logo() {
   return (
     <StyledLogo>
-      <Img src="/hemlock-light-removebg-preview.png" alt="Logo" />
+      <Img src="/hemlock-logo-light.png" alt="Logo" />
     </StyledLogo>
   );
 }
