@@ -3,7 +3,7 @@ import { toast } from "react-hot-toast";
 import { createEditCabin } from "../../services/apiCabins";
 import { useForm } from "react-hook-form";
 
-export default function useCreateCabin() {
+export function useCreateCabin() {
   const queryClient = useQueryClient();
   const { reset } = useForm();
 
