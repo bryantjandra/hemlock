@@ -14,7 +14,7 @@ function HeaderMenu() {
       <li>
         <ButtonIcon
           onClick={() => {
-            navigate("/account");
+            navigate("/settings");
           }}
         >
           <HiOutlineUser />
