@@ -45,7 +45,7 @@ function CreateCabinForm() {
     mutationFn: createCabin,
     onSuccess: () => {
       {
-        toast.success("New cabin successfully created");
+        toast.success("New room successfully created");
         queryClient.invalidateQueries({
           queryKey: ["cabins"],
         });

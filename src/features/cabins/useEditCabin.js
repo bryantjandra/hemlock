@@ -8,7 +8,7 @@ export function useEditCabin() {
     mutationFn: ({ newCabinData, id }) => createEditCabin(newCabinData, id),
     onSuccess: () => {
       {
-        toast.success("Cabin successfully edited");
+        toast.success("Room successfully edited");
         queryClient.invalidateQueries({
           queryKey: ["cabins"],
         });

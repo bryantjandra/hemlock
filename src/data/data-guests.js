@@ -10,21 +10,21 @@ export const guests = [
     countryFlag: "https://flagcdn.com/pt.svg",
   },
   {
-    fullName: "Jonathan Smith",
+    fullName: "Kobe Smith",
     email: "johnsmith@test.eu",
     nationality: "Great Britain",
     nationalID: "4534593454",
     countryFlag: "https://flagcdn.com/gb.svg",
   },
   {
-    fullName: "Jonatan Johansson",
+    fullName: "Aaron Rogers",
     email: "jonatan@example.com",
     nationality: "Finland",
     nationalID: "9374074454",
     countryFlag: "https://flagcdn.com/fi.svg",
   },
   {
-    fullName: "Jonas Mueller",
+    fullName: "Nikolas Bernard",
     email: "jonas@example.eu",
     nationality: "Germany",
     nationalID: "1233212288",
@@ -117,7 +117,7 @@ export const guests = [
     countryFlag: "https://flagcdn.com/pk.svg",
   },
   {
-    fullName: "David Smith",
+    fullName: "David Owens",
     email: "david@gmail.com",
     nationality: "Australia",
     nationalID: "44450960283",
