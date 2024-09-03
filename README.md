@@ -4,7 +4,7 @@
 
 Hemlock is a custom-built application designed to streamline the management of bookings, rooms, and guests at "Sierra," a fictional boutique hotel. This internal platform provides hotel employees a robust interface for handling daily operations, including guest check-ins, room management, and real-time analytics via a dynamic dashboard. 
 
-Explore the live application at: [Hemlock Hotel](https://hemlock-hotel.netlify.app/).
+Explore the live application at: [Hemlock Hotel](https://hemlock-hotel.netlify.app/), Note &rarr; Click on "Upload ALL" or "Upload bookings ONLY" to view the daily agenda!
 
 ## Features
 
